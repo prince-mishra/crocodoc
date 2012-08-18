@@ -1,0 +1,4 @@
+name = Embedded Crocodoc Viewer
+description = An embedded Document field using Crocodoc
+dependencies[] = field
+core = 7.x
