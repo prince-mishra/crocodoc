@@ -48,11 +48,11 @@ It appears in the Modules list as "Embedded Crocodoc Viewer."
 pdf, doc, docx, xls, xlsx, ppt, or pptx.
 
 6. Then under the "Manage Display" tab, select 
-"Embedded Crocodoc Docs Viewer" as the field formatter. 
+"Embedded Crocodoc Viewer" as the field formatter. 
 From then on you will be able to upload/add and display pdfs, 
 etc. to the content type to which you added the new field.
 
-When displaying a page containing an Embedded Crocodoc Docs field, 
+When displaying a page containing an Embedded Crocodoc field, 
 the formatter builds an iframe within the current node using the url
 of the file to construct a larger url for Crocodoc's embeddable Crocodoc
 viewer. That combined Crocodoc url is the source for the iframe's 
