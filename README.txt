@@ -1,4 +1,4 @@
-Drupal Embedded Crocodoc Viewer module based on Embedded Google Docs Viewer http://drupal.org/project/gdoc_field
+Drupal Embedded Crocodoc Viewer module 
 ------------------------------------------
 Maintainer:
   Prince Mishra (http://drupal.org/user/940208)
