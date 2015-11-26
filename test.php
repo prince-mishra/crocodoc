@@ -1,7 +1,7 @@
 <?php
 include_once 'crocodoc.php';
 $croco = new Crocodoc();
-$ret = $croco->upload('http://dexter.pune.druva.com/sites/easyhire/sites/default/files/inSync-client-Status-Home.pdf');
+$ret = $croco->upload('http://dipp.gov.in/English/Investor/Investers_Gudlines/presentation_gallery/incredible_india.pdf');
 $ret_inter = json_decode($ret, true);
 $uuid = $ret_inter["uuid"];
 var_dump($uuid);
